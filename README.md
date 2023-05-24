@@ -9,6 +9,11 @@
 
 ### starry night emoji:  xkcd
 <!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/exoplanet_high_5.png" />
+</a>
+</p>
 <!--END_SECTION:comicstrip-->
 ### 🐍 GitHub History: "The Spice must flow." Baron Harkonnen
 ![Snake animation](https://github.com/jonahokot/jonahokot/blob/output/github-contribution-grid-snake.svg)
