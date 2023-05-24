@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jonahokot&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahokot&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### starry night emoji:  xkcd
+### xkcd
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
@@ -15,6 +15,7 @@
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
+
 ### 🐍 GitHub History: "The Spice must flow." Baron Harkonnen
 ![Snake animation](https://github.com/jonahokot/jonahokot/blob/output/github-contribution-grid-snake.svg)
 
