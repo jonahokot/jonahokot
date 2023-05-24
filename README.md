@@ -8,10 +8,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonahokot&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahokot&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ dev gems
+## ✍️ dev gems
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### ![Snake animation](https://github.com/jonahokot/jonahokot/blob/output/github-contribution-grid-snake.svg)
+### 🐍 "The Spice must flow." Baron Harkonnen
+![Snake animation](https://github.com/jonahokot/jonahokot/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
