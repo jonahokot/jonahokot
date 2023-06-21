@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/heat_pump.png" />
+ <img src="https://imgs.xkcd.com/comics/bookshelf_sorting.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
