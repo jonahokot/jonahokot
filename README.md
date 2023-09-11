@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/autumn_and_fall.png" />
+ <img src="https://imgs.xkcd.com/comics/gold.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
