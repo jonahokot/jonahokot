@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/supergroup.png" />
+ <img src="https://imgs.xkcd.com/comics/earth.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
