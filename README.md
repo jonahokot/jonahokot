@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png" />
+ <img src="https://imgs.xkcd.com/comics/google_solar_cycle.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
