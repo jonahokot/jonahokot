@@ -16,7 +16,7 @@
 </p>
 <!--END_SECTION:comicstrip-->
 
-### 🐍 GitHub History: "The Spice must flow." Baron Harkonnen
-![Snake animation](https://github.com/jonahokot/jonahokot/blob/output/github-contribution-grid-snake.svg)
+<!--### 🐍 GitHub History: "The Spice must flow." Baron Harkonnen
+![Snake animation](https://github.com/jonahokot/jonahokot/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
