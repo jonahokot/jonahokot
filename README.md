@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/modes_of_transportation.png" />
+ <img src="https://imgs.xkcd.com/comics/cell_organelles.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
