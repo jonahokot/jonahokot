@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/chili_tornado_quake.png" />
+ <img src="https://imgs.xkcd.com/comics/exam_numbers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
