@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" />
+ <img src="https://imgs.xkcd.com/comics/europa_clipper.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
