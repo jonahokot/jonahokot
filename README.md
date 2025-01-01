@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" />
+ <img src="https://imgs.xkcd.com/comics/time_capsule_instructions.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
