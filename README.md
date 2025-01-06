@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/skew_t_log_p.png" />
+ <img src="https://imgs.xkcd.com/comics/origami_black_hole.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
