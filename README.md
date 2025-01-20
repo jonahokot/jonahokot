@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/uncanceled_units.png" />
+ <img src="https://imgs.xkcd.com/comics/human_altitude.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
