@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/t_rex_evolution.png" />
+ <img src="https://imgs.xkcd.com/comics/muons.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
