@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/stromatolites.png" />
+ <img src="https://imgs.xkcd.com/comics/rotary_tool.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
