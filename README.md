@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/off_by_one.png" />
+ <img src="https://imgs.xkcd.com/comics/planet_definitions.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
