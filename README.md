@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/air_fact.png" />
+ <img src="https://imgs.xkcd.com/comics/tennis_balls.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
