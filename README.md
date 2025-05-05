@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/jupiter_core.png" />
+ <img src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
