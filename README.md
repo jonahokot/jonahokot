@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/where_babies_come_from.png" />
+ <img src="https://imgs.xkcd.com/comics/thread_meeting.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
