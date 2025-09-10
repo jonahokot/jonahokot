@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png" />
+ <img src="https://imgs.xkcd.com/comics/chess_variant.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
