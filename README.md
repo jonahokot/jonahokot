@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/biology_department.png" />
+ <img src="https://imgs.xkcd.com/comics/mantle_model.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
