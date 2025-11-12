@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png" />
+ <img src="https://imgs.xkcd.com/comics/big_and_little_spoons.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
