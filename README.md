@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geologic_core_sample.png" />
+ <img src="https://imgs.xkcd.com/comics/fifteen_years.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
