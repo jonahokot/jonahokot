@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/chemical_formula.png" />
+ <img src="https://imgs.xkcd.com/comics/proof_without_content.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
