@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/rotational_gravity.png" />
+ <img src="https://imgs.xkcd.com/comics/landscape_features.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
