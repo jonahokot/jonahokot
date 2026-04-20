@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/make_it_myself.png" />
+ <img src="https://imgs.xkcd.com/comics/europa_missions.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
