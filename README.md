@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/beam_pipe.png" />
+ <img src="https://imgs.xkcd.com/comics/plate_flip.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
