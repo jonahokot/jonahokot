@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/forth.png" />
+ <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
