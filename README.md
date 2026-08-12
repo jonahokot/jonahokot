@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/trick_play.png" />
+ <img src="https://imgs.xkcd.com/comics/size_and_lifespan.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
