@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/tyrannosaurus.png" />
+ <img src="https://imgs.xkcd.com/comics/stargazing_5.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
