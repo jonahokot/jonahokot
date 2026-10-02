@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png" />
+ <img src="https://imgs.xkcd.com/comics/ground_effect.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
