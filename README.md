@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/gravitational_square_wave.png" />
+ <img src="https://imgs.xkcd.com/comics/earth_sized_planets.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
