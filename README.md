@@ -11,7 +11,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dragonfly.png" />
+ <img src="https://imgs.xkcd.com/comics/meteor_fear.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
